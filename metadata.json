@@ -1,0 +1,5 @@
+{
+  "name": "Santander Mind Agents Resume",
+  "description": "An application to analyze meeting text or audio to generate conclusions and tasks.",
+  "requestFramePermissions": []
+}
